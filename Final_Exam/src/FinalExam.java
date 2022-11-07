@@ -183,9 +183,7 @@ public class FinalExam {
             System.out.println(array[row][column]);
           }else if (row == 5 && (column == 9)){
             System.out.println(array[row][column]);
-        }else if (row == 6 && (column == 9)){
-          System.out.println(array[row][column]);
-      }
+        }
       }
     }
         // =============================================================
